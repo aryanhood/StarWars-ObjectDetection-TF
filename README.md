@@ -1,4 +1,4 @@
-# Object Detection with TensorFlow: R2-D2 and BB-8 Detection (Star Wars)
+# R2-D2 and BB-8 Detection (Star Wars)
 
 Based on open-source Project by Antonio Verdone
 You can read more at (https://averdones.github.io/tensorflow-object-detection-star-wars/)
