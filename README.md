@@ -37,4 +37,4 @@ TensorFlow's Object Detection API: Visualization tool for training.
 
 Pre-trained Model: ssd_inception_v2_coco.
 
-IPython notebook
+Jupyter Notebook
