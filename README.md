@@ -2,7 +2,7 @@
 
 Based on open-source project by Antonio Verdone
 
-You can read more at (https://averdones.github.io/tensorflow-object-detection-star-wars/)
+You can read more at (https://aryan-hood.webflow.io/posts/star-wars-object-detection-api)
 
 ## Results
 <p align="center">
